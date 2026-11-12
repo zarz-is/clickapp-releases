@@ -10,7 +10,7 @@
   "latestMacBuild": 1,
   "minSupportedMacVersion": null,
   "macDownloadURL": "https://github.com/zarz-is/clickapp-releases/releases/latest/download/Clickapp-Mac-AutoUpdate.zip",
-  "macDownloadSHA256": "d2c8568e275bfba3ed9b5279e33aa1c45227268169e06af0f321088b44fbdc8c",
+  "macDownloadSHA256": "4a5232ff69f9db8d3060612ee33e9ccec213243b5d7c18a319d012c6da30d1c2",
   "macReleaseNotes": "Edición Demo Comunidad v1.0.0 con espacios persistentes y mejoras de arrastre.",
 
   "latestIOSVersion": "1.0.0",
@@ -33,18 +33,18 @@
     "sponsorImageURL": null,
     "sponsorCTATitle": "Seguir novedades",
     "sponsorLinkURL": "https://github.com/zarz-is",
-    "adMobEnabled": true,
+    "adMobEnabled": false,
     "adMobAppOpenUnitID": "ca-app-pub-3940256099942544/5575463023",
     "adMobInterstitialUnitID": "ca-app-pub-3940256099942544/4411468910"
   },
   "topBanner": {
-    "enabled": true,
+    "enabled": false,
     "dismissible": false,
     "badgeText": "PATROCINADO",
     "text": "Clickapp Comunidad · Descubre herramientas y novedades",
     "ctaTitle": "Ver más",
     "linkURL": "https://github.com/zarz-is",
-    "adMobBannerEnabled": true,
+    "adMobBannerEnabled": false,
     "adMobBannerUnitID": "ca-app-pub-3940256099942544/2435281174"
   }
 }
