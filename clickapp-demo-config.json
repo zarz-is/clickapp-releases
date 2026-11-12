@@ -10,7 +10,7 @@
   "latestMacBuild": 1,
   "minSupportedMacVersion": null,
   "macDownloadURL": "https://github.com/zarz-is/clickapp-releases/releases/latest/download/Clickapp-Mac-AutoUpdate.zip",
-  "macDownloadSHA256": "4a5232ff69f9db8d3060612ee33e9ccec213243b5d7c18a319d012c6da30d1c2",
+  "macDownloadSHA256": "c4172bdf694411bcd1c7cdab7c0c9c3ddbe2e779f12cb1bbdaaee8279974fd7e",
   "macReleaseNotes": "Edición Demo Comunidad v1.0.0 con espacios persistentes y mejoras de arrastre.",
 
   "latestIOSVersion": "1.0.0",
@@ -22,6 +22,7 @@
 
   "appStoreMacURL": "https://apps.apple.com/app/idTU_APP_STORE_ID",
   "appStoreIOSURL": "https://apps.apple.com/app/idTU_APP_STORE_ID",
+  "telemetryEndpointURL": "https://clickapp-logs.grupo-garma-webs.workers.dev",
 
   "launchAd": {
     "enabled": false,

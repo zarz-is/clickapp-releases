@@ -69,3 +69,10 @@ Apple no permite instalar archivos `.ipa` directamente desde Safari fuera de la 
 - **El Mac dice que Clickapp está dañada o no se puede abrir:** sigue el paso 3 de Mac (*Ajustes del Sistema → Privacidad y seguridad → Abrir igualmente*).
 - **El iPad se queda en "Buscando..." y no encuentra el Mac:** comprueba que ambos están en el mismo Wi-Fi (sin VPN activa que bloquee la red local) y revisa *Ajustes → Privacidad y seguridad → Red local* en ambos dispositivos.
 - **Al tocar un botón en el iPad no ejecuta la acción en el Mac:** asegúrate de haber activado **Clickapp** en *Ajustes del Sistema → Privacidad y seguridad → Accesibilidad* en el Mac.
+
+---
+
+## Privacidad
+
+Clickapp funciona íntegramente en tu red Wi-Fi local y **no recopila datos personales, archivos, nombres de usuario ni pulsaciones**. Únicamente puede enviar eventos técnicos anónimos de uso y errores (versión de la app/sistema, aperturas, duración de sesión y fallos de conexión o permisos mediante un identificador aleatorio anónimo) para mejorar la estabilidad de la edición de comunidad.
+
