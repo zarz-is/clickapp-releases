@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "accessStatus": "active",
+  "killSwitchMessage": null,
+  "expiresAtISO8601": null,
+  "maxTrialDaysFromFirstLaunch": 180,
+  "maxOfflineGraceDays": 14,
+
+  "latestMacVersion": "1.0.0",
+  "latestMacBuild": 1,
+  "minSupportedMacVersion": null,
+  "macDownloadURL": "https://github.com/zarz-is/clickapp-releases/releases/latest/download/Clickapp-Mac-AutoUpdate.zip",
+  "macDownloadSHA256": "d2c8568e275bfba3ed9b5279e33aa1c45227268169e06af0f321088b44fbdc8c",
+  "macReleaseNotes": "Edición Demo Comunidad v1.0.0 con espacios persistentes y mejoras de arrastre.",
+
+  "latestIOSVersion": "1.0.0",
+  "latestIOSBuild": 1,
+  "minSupportedIOSVersion": null,
+  "iosDownloadURL": "https://github.com/zarz-is/clickapp-releases/releases/latest/download/Clickapp-iPad-iOS-Demo.ipa",
+  "iosAltStoreSourceURL": "altstore://source?url=https://raw.githubusercontent.com/zarz-is/clickapp-releases/main/altstore-source.json",
+  "iosReleaseNotes": "Edición Demo Comunidad v1.0.0 para iPad y iPhone.",
+
+  "appStoreMacURL": "https://apps.apple.com/app/idTU_APP_STORE_ID",
+  "appStoreIOSURL": "https://apps.apple.com/app/idTU_APP_STORE_ID",
+
+  "launchAd": {
+    "enabled": false,
+    "displayMode": "none",
+    "cooldownHours": 0,
+    "countdownSeconds": 5,
+    "sponsorTitle": "Clickapp Edición Comunidad Gratuita",
+    "sponsorSubtitle": "Gracias por probar Clickapp. Sígueme en redes o apoya el proyecto mientras preparamos el lanzamiento en App Store.",
+    "sponsorImageURL": null,
+    "sponsorCTATitle": "Seguir novedades",
+    "sponsorLinkURL": "https://github.com/zarz-is",
+    "adMobEnabled": true,
+    "adMobAppOpenUnitID": "ca-app-pub-3940256099942544/5575463023",
+    "adMobInterstitialUnitID": "ca-app-pub-3940256099942544/4411468910"
+  },
+  "topBanner": {
+    "enabled": true,
+    "dismissible": false,
+    "badgeText": "PATROCINADO",
+    "text": "Clickapp Comunidad · Descubre herramientas y novedades",
+    "ctaTitle": "Ver más",
+    "linkURL": "https://github.com/zarz-is",
+    "adMobBannerEnabled": true,
+    "adMobBannerUnitID": "ca-app-pub-3940256099942544/2435281174"
+  }
+}
+

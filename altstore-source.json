@@ -1,0 +1,35 @@
+{
+  "name": "Clickapp Demo Comunidad",
+  "identifier": "com.clickapp.altstore.source",
+  "subtitle": "Controla tu Mac desde tu iPad o iPhone",
+  "description": "Fuente oficial de actualizaciones automáticas para la versión gratuita de comunidad de Clickapp (requiere Modo Desarrollador y AltStore/SideStore).",
+  "website": "https://github.com/zarz-is",
+  "apps": [
+    {
+      "name": "Clickapp",
+      "bundleIdentifier": "com.clickapp.app",
+      "developerName": "Javier Villar",
+      "subtitle": "Espacios de apps, Dock y atajos del Mac en tu iPad",
+      "localizedDescription": "Convierte tu iPad en un lanzador visual conectado por Wi-Fi local a tu Mac. Arrastra iconos entre espacios, controla el audio y abre apps al instante.",
+      "tintColor": "8A2BE2",
+      "category": "productivity",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-11-12",
+          "localizedDescription": "Versión inicial Demo Comunidad con persistencia en disco, arrastrar iconos entre espacios y control remoto de actualizaciones.",
+          "downloadURL": "https://github.com/zarz-is/clickapp-releases/releases/latest/download/Clickapp-iPad-iOS-Demo.ipa",
+          "size": 3669909
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "Descubre y se comunica por Wi-Fi local con Clickapp para Mac.",
+          "NSUserTrackingUsageDescription": "Utilizado para mostrar anuncios relevantes en la edición gratuita."
+        }
+      }
+    }
+  ]
+}
+
